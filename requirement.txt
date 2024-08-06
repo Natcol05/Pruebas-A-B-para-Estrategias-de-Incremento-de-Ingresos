@@ -1,0 +1,6 @@
+pandas
+scipy.stats
+datetime
+numpy
+matplotlib 
+seaborn
