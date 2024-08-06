@@ -31,3 +31,20 @@ Finalmente, respecto a la tasa de conversión, solo al principio de la prueba se
 <p align="center">
   <img src="https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos/blob/6402a9f27b666cc2c20ba6507822c01572c8e7b9/graphics/Diferencia%20en%20tasas%20de%20conversi%C3%B3n.png" alt="Sample Image">
 </p>
+
+**Conclusiones Generales:**
+
+* De acuerdo a los indicadores RICE y ICE, estas son las estrategias que se consideran más relevantes por su posible eficacia:
+1. agregar un formato de suscripción a todas las páginas principales, para compilar una lista de correos electronicos
+2. lanzar una campaña que ofrezca a los usuarios descuentos en sus cumpleaños
+3. agregar dos canales para atraer tráico de usuarios, para obtener un incremento del 30%
+4. mostrar anuncios con ofertas y ventas actuales en la página principal, para aumentar la conversión
+
+* A lo largo de la prueba se observa un comportamiento favorable del grupo B, en comparación con el grupo A, aunque se observaron valores extremos, se calculó la significancia estadistica de los datos brutos y filtrados para obtener conclusiones más certeras.  
+
+* En el caso de la métrica de conversión, la significancia estadistica de los datos brutos indican que existe una diferencia importante entre el grupo A y B y que B tiene un rendimiento 13.8% mejor que el del grupo A. Ahora bien, luego de filtrar los datos, los resultados de la significancia estadistica reconfirman lo anterior, pero indican que el grupo B tiene un comportamiento 18,6% mejor que el del grupo A. 
+
+* En cuanto al tamaño promedio de los pedidos, los datos indicarian que tanto con los datos filtrados como brutos, no existe una diferencia entre los grupos, pero en ambos casos el grupo B tiene un comportamiento significativamente mejor que el grupo A: 25% en el caso de los datos brutos y 56% en el caso de los datos filtrados. Habiendo tratado esto, también se podría afirmar que el ingreso promedio de los usuarios es mayor en el grupo B que en el grupo A. 
+
+* Se concluye que se puede terminar con la prueba, llegando a la conclusión de que el comportamiento del grupo B es considerablemente mejor en todas las métricas que el del grupo A. 
+
