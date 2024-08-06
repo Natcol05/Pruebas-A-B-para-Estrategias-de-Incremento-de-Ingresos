@@ -25,3 +25,9 @@ Ahora bien, en el caso de el comportamiento de los pedidos, la prueba acumulada 
 <p align="center">
   <img src="https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos/blob/9964b4cc6f752579e76f2117c19795667f88790a/graphics/Tama%C3%B1o%20promedio%20de%20pedido.png" alt="Sample Image">
 </p>
+
+Finalmente, respecto a la tasa de conversión, solo al principio de la prueba se observa un mejor comportamiento para el grupo A, pero de manera temprana se identiifica un claro crecimiento en la tasa de conversión para el grupo B, lo cual sería un buen indicador. 
+
+<p align="center">
+  <img src="https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos/blob/6402a9f27b666cc2c20ba6507822c01572c8e7b9/graphics/Diferencia%20en%20tasas%20de%20conversi%C3%B3n.png" alt="Sample Image">
+</p>
