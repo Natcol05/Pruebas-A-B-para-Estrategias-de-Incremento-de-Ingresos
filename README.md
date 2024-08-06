@@ -20,7 +20,7 @@ En términos generales, se observó que al inicio de la prueba ambos grupos ten�
   <img src="https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos/blob/0947d6f0c665ea53780a460417865e850fa2d240/graphics/Ingreso_Acumulado.png" alt="Sample Image">
 </p>
 
-Ahora bien, en el caso de el comportamiento de los pedidos, la prueba acumulada fue bastante fluctuante, no se evidencia una estabilidad o patron claro, esto también se relacionaba a la presencia de valores extremos. Sin embargo, en términos generales, podría decirse que el grupo B ha hecho compras más grandes que el grupo A, lo cual concuerda con el comportamiento de la métrica anterior.
+Ahora bien, en el caso de el comportamiento en el tamaño de los pedidos, la prueba acumulada fue bastante fluctuante, no se evidencia una estabilidad o patron claro, esto también se relacionaba a la presencia de valores extremos. Sin embargo, en términos generales, podría decirse que los usuarios del grupo B han hecho compras más grandes que los del grupo A, lo cual concuerda con el comportamiento de la métrica anterior.
 
 <p align="center">
   <img src="https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos/blob/9964b4cc6f752579e76f2117c19795667f88790a/graphics/Tama%C3%B1o%20promedio%20de%20pedido.png" alt="Sample Image">
