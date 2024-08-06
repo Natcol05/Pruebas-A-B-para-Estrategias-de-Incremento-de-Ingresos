@@ -14,7 +14,7 @@ from matplotlib import pyplot as plt
 import seaborn as sb
 ```
 
-En términos generales, se observó que al inicio de la prueba ambos grupos tenían unos ingresos más o menos similares, pero esto fue cambiando en el transcurso de los días. Ene sta medida los ingresos acumulados del grupo B parecen ser considerablemente más altos que los del grupo A. Sin embargo, fue necesario revisar la posibilidad de valores extremos en ciertos días, ya que aunque hay un crecimiento uniforme en casi toda la prueba, también hay algunos picos que podrían indicar un aumento en las ventas en momentos especificos o la existencia de algunos pedidos especialmente costosos, pero no habituales. (Para observar como se trataron lso valores extremos, remitirse al proyecto).  
+En términos generales, se observó que al inicio de la prueba ambos grupos tenían unos ingresos más o menos similares, pero esto fue cambiando en el transcurso de los días. En esta medida los ingresos acumulados del grupo B parecen ser considerablemente más altos que los del grupo A. Sin embargo, fue necesario revisar la posibilidad de valores extremos en ciertos días, ya que aunque hay un crecimiento uniforme en casi toda la prueba, también hay algunos picos que podrían indicar un aumento en las ventas en momentos especificos o la existencia de algunos pedidos especialmente costosos, pero no habituales. (Para observar como se trataron lso valores extremos, remitirse al proyecto).  
 
 <p align="center">
   <img src="https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos/blob/0947d6f0c665ea53780a460417865e850fa2d240/graphics/Ingreso_Acumulado.png" alt="Sample Image">
